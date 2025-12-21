@@ -41,6 +41,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_diagnostic_setting_name"></a> [diagnostic\_setting\_name](#output\_diagnostic\_setting\_name) | The name of the deployed log analytics workspace |
+| <a name="output_diagnostic_setting_name"></a> [diagnostic\_setting\_name](#output\_diagnostic\_setting\_name) | The name of the deployed diagnostic setting |
 | <a name="output_log_analytics_workspace_id"></a> [log\_analytics\_workspace\_id](#output\_log\_analytics\_workspace\_id) | The ID of the deployed log analytics workspace |
 <!-- END_TF_DOCS -->
