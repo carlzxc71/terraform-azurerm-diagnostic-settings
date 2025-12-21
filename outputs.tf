@@ -5,5 +5,5 @@ output "log_analytics_workspace_id" {
 
 output "diagnostic_setting_name" {
   value       = azurerm_monitor_diagnostic_setting.this.name
-  description = "The name of the deployed log analytics workspace"
+  description = "The name of the deployed diagnostic setting"
 }
